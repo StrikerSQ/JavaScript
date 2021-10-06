@@ -10,4 +10,4 @@ function deepClone(obj) {
   return cloneObj;
 }
 
-module.exports = deepClone;
+module.exports = deepClone();

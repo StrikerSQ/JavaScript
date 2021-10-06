@@ -7,4 +7,4 @@ function checkProp(str, obj) {
   }
 }
 
-module.exports = checkProp;
+module.exports = checkProp();

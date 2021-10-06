@@ -3,4 +3,4 @@ function copyObject(obj) {
   return cloneObj;
 }
 
-module.exports = copyObject;
+module.exports = copyObject();

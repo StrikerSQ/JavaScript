@@ -9,4 +9,4 @@ function checkProp(str, obj) {
   return obj;
 }
 
-module.exports = checkProp;
+module.exports = checkProp();

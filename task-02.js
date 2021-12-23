@@ -5,4 +5,4 @@ function returnObject(obj) {
   return;
 }
 
-module.exports = returnObject;
+module.exports = returnObject();
